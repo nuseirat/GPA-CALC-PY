@@ -4,6 +4,7 @@ total_hours = 0
 
 
 
+
 print("@MohaNuseirat")
 print("نظام الجامعة العربية المفتوحة كالتالي:")
 print("A=4,   B+=3.5,   B=3,   C+=2.5,   C=2,   D=1.5,   F=0")
